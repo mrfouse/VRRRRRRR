@@ -1,0 +1,14 @@
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\bin\Debug\net6.0\machinka.exe
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\bin\Debug\net6.0\machinka.deps.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\bin\Debug\net6.0\machinka.runtimeconfig.json
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\bin\Debug\net6.0\machinka.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\bin\Debug\net6.0\machinka.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.AssemblyInfoInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.AssemblyInfo.cs
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\refint\machinka.dll
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.pdb
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\machinka.genruntimeconfig.cache
+C:\Users\Елизавета\OneDrive\Рабочий стол\ass\machinka\obj\Debug\net6.0\ref\machinka.dll
